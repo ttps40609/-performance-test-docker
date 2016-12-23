@@ -13,6 +13,7 @@ sudo mysql_config_editor set --login-path=dbname --host=127.0.0.1 --user=root --
 * --host : 需要登入的伺服器位置
 * --user : 使用者帳號
 * --password : 使用密碼登入（不需要在此打入資訊,他會自動跳出輸入訊息）
+
 ### 2.執行程式
 ```
 sudo sh start.sh
