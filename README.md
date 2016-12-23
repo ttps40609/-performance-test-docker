@@ -20,3 +20,4 @@ sudo sh start.sh
 ```
 # 資料來源
 perf.c -- [研究所學習筆記](http://blog.xuite.net/ian11832/blogg/30774340-+在linux上增加CPU想要的負載值程式)
+mysql_config_editor -- [Mr. 沙先生](https://shazi.info/mysql-執行-bash-script-出現-warning-using-a-password-on-the-command-line-interface-can-be-insecure/)
